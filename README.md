@@ -1,6 +1,18 @@
 #Netflix Gpt
 - create React App
 -Configured tailwincss
+-Header
+-Router
+-login form
+-Sign up Form
+-form Validation
+-useRef Hook
+-Firebase Setup
+-deploying our app to  production
+-Create SignUp User Account
+
+
+-validation
 
 #feature
 -login/Sign up Form 
