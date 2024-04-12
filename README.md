@@ -10,13 +10,9 @@
 -Firebase Setup
 -deploying our app to  production
 -Create SignUp User Account
-
-
 -validation
-
 #feature
 -login/Sign up Form 
-
     -Sign In/ Sign up form
     -signUp form
     -redirect to Browse page
