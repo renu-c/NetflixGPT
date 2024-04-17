@@ -116,7 +116,7 @@ const Login = () => {
 
             <input
               ref={password}
-              type="text"
+              type="password"
               placeholder="Password"
               className="p-2 my-2 w-full  bg-gray-500 "
             />
